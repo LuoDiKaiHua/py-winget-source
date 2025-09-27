@@ -1,0 +1,11 @@
+packages:
+  - name: usql
+    id: xo.usql
+    url: https://github.com/xo/usql
+    include_prerelease: false
+    pattern: 'usql.*windows.*\.zip$'
+  - name: git
+    id: git-for-windows.git
+    url: https://github.com/git-for-windows/git
+    include_prerelease: false
+    pattern: 'Git.*64-bit\.exe$'
